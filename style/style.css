@@ -248,7 +248,6 @@ section{
     display: flex;
     align-items: center;
     margin: 0 134px 48px 134px;
-    border: 3px solid #f6f6f6;
 }
 
 .about_move2{
@@ -256,8 +255,7 @@ section{
     height: 224.59px;
     display: flex;
     align-items: center;
-    margin: 0 134px 0 134px;
-    border: 3px solid #f6f6f6;
+    margin: 0 134px 48px 134px;
 }
 
 .about_move3{
@@ -266,7 +264,6 @@ section{
     display: flex;
     align-items: center;
     margin: 0 134px 48px 134px;
-    border: 3px solid #f6f6f6;
 }
 
 .about_move4{
@@ -275,7 +272,6 @@ section{
     display: flex;
     align-items: center;
     margin: 0 134px 48px 134px;
-    border: 3px solid #f6f6f6;
 }
 
 .about_move5{
@@ -284,5 +280,28 @@ section{
     display: flex;
     align-items: center;
     margin: 0 134px 0 134px;
-    border: 3px solid #f6f6f6;
+}
+
+.content{
+    width: 493px;
+    height: 48px;
+    margin: 0 0 0 32px;
+}
+
+.content2{
+    width: 493px;
+    height: 48px;
+    margin: 0 32px 0 0;
+}
+
+.content_title{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 130%;
+}
+
+.content_text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
 }
