@@ -1,0 +1,287 @@
+/*hammasiga css beramiz*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
+
+.container{
+    width: 1300px;
+    height: 3190px;
+    margin: 0 auto;
+}
+
+
+/*nav bar boshi*/
+
+header{
+    margin: 0 100px 0 100px;
+}
+
+.nav_bar{
+    display: flex;
+    justify-content: space-between;
+    height: 56px;
+    border-bottom: 3px solid #f6f6f6;
+}
+
+.nav_logo{
+    width: 58.11px;
+    height: 20px;
+    margin: 18.22px 0 0 0;
+}
+
+.list{
+    display: flex;
+    margin: 0 0 0 300px;
+}
+
+.link{
+    margin: 16px;
+}
+
+.nav_tel{
+    width: 159px;
+    height: 40px;
+    background: #00BAFC;
+    border-radius: 5px;
+    margin: 8px 0 8px 0;
+    border: none;
+}
+
+.nomer{
+    align-items: center;
+    font-size: 15px;
+    color: #fff;
+}
+
+/*nav bar oxiri*/
+
+
+/*header content boshi*/
+
+.header_content{
+
+}
+
+.vid{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px 0 80px 0;
+}
+
+.text{
+    width: 470px;
+    height: 241px;
+    display: block;
+}
+
+.header_tytle{
+    padding: 17px 0 0 0;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 130%;
+}
+
+.header_text{
+    padding: 16px 0 0 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.header_btn{
+    margin: 16px 0 0 0;
+    width: 232px;
+    height: 40px;
+    border-radius: 5px;
+    background: #fff;
+    border: none;
+}
+
+.header_btn:hover{
+    background: #00BAFC;
+}
+
+.header_next{
+    padding: 16px 8px 16px 8px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #00BAFC;
+}
+
+.header_next:hover{
+    color: #fff;
+}
+
+/*header content oxiri*/
+
+
+/*services boshi*/
+
+section{
+    margin: 0 100px;
+}
+
+.services_title{
+    padding: 56px 0 16px 0;
+    text-align: center;
+}
+
+.services_text{
+    width: 719px;
+    height: 48px;
+    text-align: center;
+    margin: 16px 190.5px 24px 190.5px;
+}
+
+.services_turlari{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.wesite{
+    width: 320px;
+    height: 260px;
+    margin: 0 35px 0 0;
+    border: 3px solid #f6f6f6;
+}
+
+.bot{
+    width: 320px;
+    height: 260px;
+    margin: 0 35px 0 35px;
+    border: 3px solid #f6f6f6;
+}
+
+.smm{
+    width: 320px;
+    height: 260px;
+    margin: 0 0 0 35px;
+    border: 3px solid #f6f6f6;
+}
+
+.dizayn{
+    width: 320px;
+    height: 260px;
+    margin: 48px 35px 0 0;
+    border: 3px solid #f6f6f6;
+}
+
+.crm{
+    width: 320px;
+    height: 260px;
+    margin: 48px 0 0 35px;
+    border: 3px solid #f6f6f6;
+}
+
+.website_img{
+    margin: 24px 58.6px 0 58.6px;
+    width: 202.79px;
+    height: 130px;
+}
+
+.website_content{
+    text-align: center;
+}
+
+.website_tytle{
+    margin: 16.28px 0 16px 0;
+}
+
+.services_tel{
+    margin: 40px 350px 56px 350px;
+}
+
+.call{
+    width: 167px;
+    height: 40px;
+    border-radius: 5px;
+    background: #fff;
+    border: none;
+}
+
+.buyurtma{
+    color: #00BAFC;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.call:hover{
+    background: #00BAFC;
+}
+
+.buyurtma:hover{
+    color: #fff;
+}
+
+.next1{
+    width: 224px;
+    height: 40px;
+    border-radius: 5px;
+    background: #fff;
+    border: none;
+}
+
+.next1:hover{
+    background: #00BAFC;
+}
+
+/*services oxiri*/
+
+
+/*about boshi*/
+
+.about_move1{
+    width: 832px;
+    height: 278px;
+    display: flex;
+    align-items: center;
+    margin: 0 234px 0 234px;
+}
+
+.about_move2{
+    width: 832px;
+    height: 224.59px;
+    display: flex;
+    align-items: center;
+    margin: 0 234px 0 234px;
+}
+
+.about_move3{
+    width: 832px;
+    height: 258.9px;
+    display: flex;
+    align-items: center;
+    margin: 0 234px 0 234px;
+}
+
+.about_move4{
+    width: 832px;
+    height: 171.12px;
+    display: flex;
+    align-items: center;
+    margin: 0 234px 0 234px;
+}
+
+.about_move5{
+    width: 832px;
+    height: 232.2px;
+    display: flex;
+    align-items: center;
+    margin: 0 234px 0 234px;
+}
