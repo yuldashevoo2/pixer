@@ -177,14 +177,14 @@ section{
 .dizayn{
     width: 320px;
     height: 260px;
-    margin: 48px 35px 0 0;
+    margin: 48px 35px 0 195px;
     border: 3px solid #f6f6f6;
 }
 
 .crm{
     width: 320px;
     height: 260px;
-    margin: 48px 0 0 35px;
+    margin: 48px 195px 0 35px;
     border: 3px solid #f6f6f6;
 }
 
@@ -251,7 +251,8 @@ section{
     height: 278px;
     display: flex;
     align-items: center;
-    margin: 0 234px 0 234px;
+    margin: 0 134px 48px 134px;
+    border: 3px solid #f6f6f6;
 }
 
 .about_move2{
@@ -259,7 +260,8 @@ section{
     height: 224.59px;
     display: flex;
     align-items: center;
-    margin: 0 234px 0 234px;
+    margin: 0 134px 0 134px;
+    border: 3px solid #f6f6f6;
 }
 
 .about_move3{
@@ -267,7 +269,8 @@ section{
     height: 258.9px;
     display: flex;
     align-items: center;
-    margin: 0 234px 0 234px;
+    margin: 0 134px 48px 134px;
+    border: 3px solid #f6f6f6;
 }
 
 .about_move4{
@@ -275,7 +278,8 @@ section{
     height: 171.12px;
     display: flex;
     align-items: center;
-    margin: 0 234px 0 234px;
+    margin: 0 134px 48px 134px;
+    border: 3px solid #f6f6f6;
 }
 
 .about_move5{
@@ -283,5 +287,6 @@ section{
     height: 232.2px;
     display: flex;
     align-items: center;
-    margin: 0 234px 0 234px;
+    margin: 0 134px 0 134px;
+    border: 3px solid #f6f6f6;
 }
