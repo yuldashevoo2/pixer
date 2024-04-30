@@ -356,7 +356,11 @@ section{
     margin: 24px 24px 16px 24px;
     border: none;
     border-radius: 5px;
-    background: #f6f6f6;
+    background: #f3f3f3;
+    padding: 0 0 0 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
 }
 
 #tell, #date{
@@ -365,11 +369,90 @@ section{
     margin: 0 24px 16px 24px;
     border: none;
     border-radius: 5px;
-    background: #f6f6f6;
-}
-
-placeholder{
+    background: #f3f3f3;
+    padding: 0 0 0 20px;
     font-size: 16px;
     font-weight: 400;
     line-height: 150%;
 }
+
+/*checkout oxiri*/
+
+
+/*footer boshi*/
+
+.footer{
+    height: 338px;
+    background: #191919;
+}
+
+.f_container{
+    width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    padding: 56px 0;
+}
+
+.f_content{
+    width: 320px;
+    height: 162px;
+}
+
+.f_title{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 130%;
+    margin: 0 0 16px 0;
+    color: #fff;
+}
+
+.fc_text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #fff;
+}
+
+.f_pages{
+    width: 143px;
+    height: 226px;
+    margin: 0 0 0 100px;
+}
+
+.fp_link a{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #fff;
+    margin: 0 0 8px 0;
+}
+
+.f_inter{
+    width: 142px;
+    height: 130px;
+    margin: 0 0 0 87px;
+}
+
+.fi_link{
+    width: 100px;
+    height: 24px;
+    margin: 0 0 9px 0;
+}
+
+.fi_a{
+    display: flex;
+    
+}
+
+.fi_txt{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 0 0 8px;
+    color: #fff;
+}
+
+/*footer oxiri*/
+
+
+/*THE END*/
